@@ -1,0 +1,43 @@
+body 
+{
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-color: #def1e0;
+    color: #333333;
+}
+
+h1 
+{
+    color: #17701e;
+    font-size: 24px;
+    font-family: Georgia, serif;
+    text-align: center;
+}
+
+h3 
+{
+    color: #15cb24;
+    font-size: 20px;
+    font-family: Georgia, serif;
+    text-align: center;
+}
+
+p 
+{
+    color: #29422b;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+ul 
+{
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+image 
+{
+    max-width: 6000px; 
+    height: 400px
+}
